@@ -1,0 +1,11 @@
+pystyle
+pafy
+gTTs
+colorama
+discord.webhook
+lxml
+selenium
+pillow
+discord
+requests
+aiohttp
